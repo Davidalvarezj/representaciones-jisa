@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/representaciones-jisa/static/css/main.80ba7da1.chunk.css",
-    "main.js": "/representaciones-jisa/static/js/main.de5b5eb1.chunk.js",
-    "main.js.map": "/representaciones-jisa/static/js/main.de5b5eb1.chunk.js.map",
+    "main.css": "/representaciones-jisa/static/css/main.4a653175.chunk.css",
+    "main.js": "/representaciones-jisa/static/js/main.b7684391.chunk.js",
+    "main.js.map": "/representaciones-jisa/static/js/main.b7684391.chunk.js.map",
     "runtime-main.js": "/representaciones-jisa/static/js/runtime-main.591013df.js",
     "runtime-main.js.map": "/representaciones-jisa/static/js/runtime-main.591013df.js.map",
     "static/css/2.c08f48bb.chunk.css": "/representaciones-jisa/static/css/2.c08f48bb.chunk.css",
@@ -12,14 +12,15 @@
     "static/js/3.f5bcb46d.chunk.js.map": "/representaciones-jisa/static/js/3.f5bcb46d.chunk.js.map",
     "index.html": "/representaciones-jisa/index.html",
     "static/css/2.c08f48bb.chunk.css.map": "/representaciones-jisa/static/css/2.c08f48bb.chunk.css.map",
-    "static/css/main.80ba7da1.chunk.css.map": "/representaciones-jisa/static/css/main.80ba7da1.chunk.css.map",
+    "static/css/main.4a653175.chunk.css.map": "/representaciones-jisa/static/css/main.4a653175.chunk.css.map",
     "static/js/2.c4c52953.chunk.js.LICENSE.txt": "/representaciones-jisa/static/js/2.c4c52953.chunk.js.LICENSE.txt",
     "static/media/Jumbo.css": "/representaciones-jisa/static/media/10.f620ceea.jpg",
     "static/media/15.d52370ea.jpg": "/representaciones-jisa/static/media/15.d52370ea.jpg",
     "static/media/Contacto.css": "/representaciones-jisa/static/media/19.8d16033a.jpg",
     "static/media/Logojisa2.5b27f7d2.png": "/representaciones-jisa/static/media/Logojisa2.5b27f7d2.png",
     "static/media/Logojisa3 - Copy.png": "/representaciones-jisa/static/media/Logojisa3 - Copy.657e2be3.png",
-    "static/media/Pisos1.jpg": "/representaciones-jisa/static/media/Pisos1.fe285abf.jpg",
+    "static/media/Pisometppal.jpg": "/representaciones-jisa/static/media/Pisometppal.b37f179d.jpg",
+    "static/media/Super-Span.jpeg": "/representaciones-jisa/static/media/Super-Span.12ba5c10.jpeg",
     "static/media/alcantarilla-arco.jpg": "/representaciones-jisa/static/media/alcantarilla-arco.2309cd71.jpg",
     "static/media/alcantarillas-9.959c8421.jpg": "/representaciones-jisa/static/media/alcantarillas-9.959c8421.jpg",
     "static/media/alcantarillas-metalicas-abovedadas2.jpg": "/representaciones-jisa/static/media/alcantarillas-metalicas-abovedadas2.28e5fe9a.jpg",
@@ -29,9 +30,9 @@
     "static/media/icon1.a7250ef9.png": "/representaciones-jisa/static/media/icon1.a7250ef9.png",
     "static/media/logo.6ce24c58.svg": "/representaciones-jisa/static/media/logo.6ce24c58.svg",
     "static/media/pexels-fauxels-3184292.e363a542.jpg": "/representaciones-jisa/static/media/pexels-fauxels-3184292.e363a542.jpg",
-    "static/media/piso2.jpg": "/representaciones-jisa/static/media/piso2.5fedb1a5.jpg",
-    "static/media/piso3.jpg": "/representaciones-jisa/static/media/piso3.38c30d5c.jpg",
-    "static/media/pisomet.jpg": "/representaciones-jisa/static/media/pisomet.627e2bd8.jpg",
+    "static/media/pisomet1.jpg": "/representaciones-jisa/static/media/pisomet1.6be86648.jpg",
+    "static/media/pisomet2.jpg": "/representaciones-jisa/static/media/pisomet2.e1988f27.jpg",
+    "static/media/pisomet3.jpg": "/representaciones-jisa/static/media/pisomet3.1b6ac834.jpg",
     "static/media/poste.jpg": "/representaciones-jisa/static/media/poste.d9282150.jpg",
     "static/media/poste5.jpg": "/representaciones-jisa/static/media/poste5.845fb958.jpg",
     "static/media/postes2.webp": "/representaciones-jisa/static/media/postes2.e8b43535.webp",
@@ -49,7 +50,7 @@
     "static/js/runtime-main.591013df.js",
     "static/css/2.c08f48bb.chunk.css",
     "static/js/2.c4c52953.chunk.js",
-    "static/css/main.80ba7da1.chunk.css",
-    "static/js/main.de5b5eb1.chunk.js"
+    "static/css/main.4a653175.chunk.css",
+    "static/js/main.b7684391.chunk.js"
   ]
 }
