@@ -29,7 +29,10 @@ const Contacto = () => {
             <h4 className="text-warning">
               <i className="fa-solid fa-location-dot" /> Dirección
             </h4>
-            <p className="m-0">Carrera 44 # 48-51, Medellin, Colombia</p>
+            <p className="m-0">
+              Km 8 vía Llanogrande Haras Santa Lucía Apto 208 Rionegro,
+              Antioquia, Colombia
+            </p>
           </div>
           <div className="col-xs-12 col-sm-6 d-flex justify-content-center">
             <img
