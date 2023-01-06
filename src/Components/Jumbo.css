@@ -1,0 +1,22 @@
+.jumbo-main {
+    color: white;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)), url("../img/bg/10.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    text-shadow: 2px 2px 4px #000000;
+    /* box-shadow: -0px -100px 100px  10px rgba(0, 0, 0, 0.5) inset; */
+    height: 50vh;
+    box-shadow: 0px 0px 200px 200px rgba(0, 0, 0, 0.0);
+
+}
+
+.row-jumbo {
+    padding-top: 100px !important;
+}
+
+@media (max-width: 640px) {
+    .row-jumbo {
+        padding-top: 40px !important;
+    }
+}
