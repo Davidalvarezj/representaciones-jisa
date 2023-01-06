@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/representaciones-jisa/static/css/main.4a653175.chunk.css",
-    "main.js": "/representaciones-jisa/static/js/main.b7684391.chunk.js",
-    "main.js.map": "/representaciones-jisa/static/js/main.b7684391.chunk.js.map",
+    "main.js": "/representaciones-jisa/static/js/main.e2544e8e.chunk.js",
+    "main.js.map": "/representaciones-jisa/static/js/main.e2544e8e.chunk.js.map",
     "runtime-main.js": "/representaciones-jisa/static/js/runtime-main.591013df.js",
     "runtime-main.js.map": "/representaciones-jisa/static/js/runtime-main.591013df.js.map",
     "static/css/2.c08f48bb.chunk.css": "/representaciones-jisa/static/css/2.c08f48bb.chunk.css",
@@ -51,6 +51,6 @@
     "static/css/2.c08f48bb.chunk.css",
     "static/js/2.c4c52953.chunk.js",
     "static/css/main.4a653175.chunk.css",
-    "static/js/main.b7684391.chunk.js"
+    "static/js/main.e2544e8e.chunk.js"
   ]
 }
