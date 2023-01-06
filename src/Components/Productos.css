@@ -60,7 +60,8 @@
 
 @media (max-width: 640px) {
     .card {
-        width: 200px !important;
+        width: 150px !important;
+        height: 250px !important;
         margin: 0;
     }
 
@@ -71,6 +72,9 @@
     .card-img-top {
         height: 180px ;
 
-
+    }
+    .alcmodal{
+        width: 120px !important;
+        height: 120px !important;
     }
 }

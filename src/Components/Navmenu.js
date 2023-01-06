@@ -19,7 +19,7 @@ const Navmenu = () => {
           <Navbar.Brand href="#nosotros">
             <img src={Logo} alt="Logo" width="80" height="60" />
           </Navbar.Brand>
-          <Nav className="h4">
+          <Nav className="h4 nav-content">
             <Nav.Link href="#nosotros">Nosotros</Nav.Link>
             <Nav.Link href="#productos">Productos</Nav.Link>
             <Nav.Link href="#contacto">Contacto</Nav.Link>

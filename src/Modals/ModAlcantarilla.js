@@ -63,7 +63,7 @@ const ModAlcantarilla = (props) => {
               </div>
               <h6 className="text-center">Alcantarillas abovedadas</h6>
             </div>
-            <div className="col-6 col-md-3 d-none d-sm-block">
+            <div className="col-6 col-md-3 ">
               <div className="d-flex justify-content-center">
                 <img
                   src={require("../img/alcantarilla-arco.jpg").default}
@@ -74,10 +74,10 @@ const ModAlcantarilla = (props) => {
               </div>
               <h6 className="text-center">Alcantarillas Arcos</h6>
             </div>
-            <div className="col-6 col-md-3 d-none d-sm-block">
+            <div className="col-6 col-md-3 ">
               <div className="d-flex justify-content-center">
                 <img
-                  src={require("../img/alcantarilla-spam.jpg").default}
+                  src={require("../img/Super-Span.jpeg").default}
                   width="200"
                   height="200"
                   className="alcmodal"

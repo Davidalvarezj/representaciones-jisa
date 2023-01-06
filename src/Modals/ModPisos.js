@@ -34,7 +34,7 @@ const ModPisos = (props) => {
             <div className="col-6 col-md-4 ">
               <div className="d-flex justify-content-center">
                 <img
-                  src={require("../img/Pisos1.jpg").default}
+                  src={require("../img/pisomet3.jpg").default}
                   width="200"
                   height="200"
                   align="left"
@@ -45,7 +45,7 @@ const ModPisos = (props) => {
             <div className="col-6 col-md-4 ">
               <div className="d-flex justify-content-center">
                 <img
-                  src={require("../img/piso2.jpg").default}
+                  src={require("../img/pisomet1.jpg").default}
                   width="200"
                   height="200"
                   className="alcmodal "
@@ -55,7 +55,7 @@ const ModPisos = (props) => {
             <div className="col-6 col-md-4 d-none d-sm-block">
               <div className="d-flex justify-content-center">
                 <img
-                  src={require("../img/piso3.jpg").default}
+                  src={require("../img/pisomet2.jpg").default}
                   width="200"
                   height="200"
                   className="alcmodal"

@@ -16,7 +16,7 @@ const Jumbo = () => {
               <span className="text-warning h4">_______</span>
               <div className="row mt-3">
                 <div className="col-5 ">
-                  <p class="fst-italic text-white ">
+                  <p class="fst-italic text-white mb-5">
                     "Tu proveedor de Soluciones metálicos de Alta Calidad en el
                     mercado Colombiano."
                   </p>

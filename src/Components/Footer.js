@@ -14,7 +14,7 @@ const Footer = () => {
             <a
               role="button"
               className="text-white ms-1"
-              href="http://http://www.representacionesjisa.com/"
+              href="http://www.representacionesjisa.com/"
               target="_blank"
             >
               www.representacionesjisa.com

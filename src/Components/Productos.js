@@ -71,7 +71,9 @@ const [modalShowPuent, setModalShowPuent] = React.useState(false);
         <Row className=" ">
           <Col className="text-center mt-4 mb-4">
             <h6 className="text-warning mb-2 p-0">PORTAFOLIO</h6>
-            <h3 className="m-0 p-0 text-white" id="productos">PRODUCTOS</h3>
+            <h3 className="m-0 p-0 text-white" id="productos">
+              PRODUCTOS
+            </h3>
             <span className="text-warning h5 m-0">_________</span>
           </Col>
         </Row>
@@ -79,7 +81,7 @@ const [modalShowPuent, setModalShowPuent] = React.useState(false);
       <div className="container-fluid producto-main">
         <Container className="pt-5  pb-5">
           <Row className="mb-5 row-product">
-            <Col >
+            <Col>
               <Card
                 style={{ width: "18rem" }}
                 className="mb-5"
@@ -92,13 +94,13 @@ const [modalShowPuent, setModalShowPuent] = React.useState(false);
                 />
                 <Card.Body>
                   <Card.Title>Alcantarillas Metálicas</Card.Title>
-                  <Card.Text>
+                  <Card.Text className="d-none d-sm-block">
                     Alcantarillas circulares, abovedadas, Arcos y Super-Spam.
                   </Card.Text>
                 </Card.Body>
               </Card>
             </Col>
-            <Col >
+            <Col>
               <Card
                 style={{ width: "18rem" }}
                 className="mb-5"
@@ -107,14 +109,14 @@ const [modalShowPuent, setModalShowPuent] = React.useState(false);
                 <Card.Img variant="top" src={tunel} />
                 <Card.Body>
                   <Card.Title>Tunnel Liner Plates</Card.Title>
-                  <Card.Text>
+                  <Card.Text className="d-none d-sm-block">
                     El sistema Tunnel Liner, para la construcción de túneles en
                     suelos blandos.
                   </Card.Text>
                 </Card.Body>
               </Card>
             </Col>
-            <Col >
+            <Col>
               <Card
                 style={{ width: "18rem" }}
                 className=""
@@ -123,14 +125,14 @@ const [modalShowPuent, setModalShowPuent] = React.useState(false);
                 <Card.Img variant="top" src={tablestac} />
                 <Card.Body>
                   <Card.Title>Tablestacas Metálicas</Card.Title>
-                  <Card.Text>
+                  <Card.Text className="d-none d-sm-block">
                     Sistema de tablestacas o muro de tablestacas para la
                     contención flexible de tierras.
                   </Card.Text>
                 </Card.Body>
               </Card>
             </Col>
-            <Col >
+            <Col>
               <Card
                 style={{ width: "18rem" }}
                 className="mb-5"
@@ -142,13 +144,13 @@ const [modalShowPuent, setModalShowPuent] = React.useState(false);
                 />
                 <Card.Body>
                   <Card.Title>Defensas Viales</Card.Title>
-                  <Card.Text>
+                  <Card.Text className="d-none d-sm-block">
                     Las defensas viales Flex-Beam doble onda en forma de “W”.
                   </Card.Text>
                 </Card.Body>
               </Card>
             </Col>
-            <Col >
+            <Col>
               <Card
                 style={{ width: "18rem" }}
                 className="mb-5"
@@ -156,18 +158,18 @@ const [modalShowPuent, setModalShowPuent] = React.useState(false);
               >
                 <Card.Img
                   variant="top"
-                  src={require("../img/pisomet.jpg").default}
+                  src={require("../img/Pisometppal.jpg").default}
                 />
                 <Card.Body>
                   <Card.Title>Pisos Metálicos</Card.Title>
-                  <Card.Text>
+                  <Card.Text className="d-none d-sm-block">
                     Pisos Metálicos perforados, son ligeros y con superficie
                     antideslizante.
                   </Card.Text>
                 </Card.Body>
               </Card>
             </Col>
-            <Col >
+            <Col>
               <Card
                 style={{ width: "18rem" }}
                 className="mb-5"
@@ -179,14 +181,14 @@ const [modalShowPuent, setModalShowPuent] = React.useState(false);
                 />
                 <Card.Body>
                   <Card.Title>Postes Metálicos</Card.Title>
-                  <Card.Text>
+                  <Card.Text className="d-none d-sm-block">
                     Los postes metálicos se fabrican a partir de bobinas o
                     planchas de acero de diferentes calidades.
                   </Card.Text>
                 </Card.Body>
               </Card>
             </Col>
-            <Col >
+            <Col>
               <Card
                 style={{ width: "18rem" }}
                 className="mb-5"
@@ -198,7 +200,7 @@ const [modalShowPuent, setModalShowPuent] = React.useState(false);
                 />
                 <Card.Body>
                   <Card.Title>Puentes Peatonales</Card.Title>
-                  <Card.Text>
+                  <Card.Text className="d-none d-sm-block">
                     Puentes Peatonales metalicos estructurales diseñados a
                     medida.
                   </Card.Text>
