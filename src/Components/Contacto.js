@@ -1,7 +1,6 @@
-import React from 'react'
-import "./Contacto.css"
-
-
+import React from "react";
+import "./Contacto.css";
+import { Container, Row, Col } from "reactstrap";
 
 const Contacto = () => {
   return (
@@ -42,20 +41,25 @@ const Contacto = () => {
               height="150"
               className=""
             />
-            {/* <a
-              href="https://wa.me/+573187165424?text=Hola%20estoy%20interesado%20en%20productos%20Representaciones%20JISA"
-              class="float"
-              target="_blank"
-            >
-              <i class="fa fa-whatsapp my-float"></i>
-            </a> */}
           </div>
         </div>
+
+        <Row>
+          <div className="col text-center text-white">
+            Copyright Representaciones JISA |
+            <a
+              role="button"
+              className="text-white ms-1"
+              href="http://www.representacionesjisa.com/"
+              target="_blank"
+            >
+              www.representacionesjisa.com
+            </a>
+          </div>
+        </Row>
       </div>
     </div>
   );
+};
 
-
-}
-
-export default Contacto
+export default Contacto;

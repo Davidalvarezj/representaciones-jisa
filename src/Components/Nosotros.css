@@ -5,16 +5,32 @@ p{
 .nosotros-img{
     border-radius: 10px;
     box-shadow: 10px 10px 10px rgba(89, 90, 90, 0.4);
+    margin-top: 30px;
+    filter: opacity(80%);
+   
 }
+
 
 .custobutton{
     box-shadow: 10px 10px 10px rgba(89, 90, 90, 0.4);
-
 }
+
+.container-nosotros{
+    margin-top: 200px ;
+    margin-bottom: 200px;
+}
+
 
 
 @media (max-width: 640px) {
 .nosotros-img {
-width: 80vw;
-    }
+    width: 80vw;
+    margin-top: 0px;
+}
+
+.container-nosotros {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
 }
