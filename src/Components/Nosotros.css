@@ -6,17 +6,17 @@ p{
     border-radius: 10px;
     box-shadow: 10px 10px 10px rgba(89, 90, 90, 0.4);
     margin-top: 30px;
-    filter: opacity(80%);
+    filter: opacity(100%);
    
 }
 
 
 .custobutton{
-    box-shadow: 10px 10px 10px rgba(89, 90, 90, 0.4);
+    box-shadow: 5px 5px 5px rgba(89, 90, 90, 0.2);
 }
 
 .container-nosotros{
-    margin-top: 200px ;
+    margin-top: 240px ;
     margin-bottom: 200px;
 }
 

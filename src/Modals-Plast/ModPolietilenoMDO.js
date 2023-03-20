@@ -2,6 +2,7 @@ import React from "react";
 import Button from "react-bootstrap/Button";
 import Modal from "react-bootstrap/Modal";
 import PdfGDM from "../img/plasticos/Presentacioìn GDM.pdf";
+import Satyendra from "../img/plasticos/SPL BOPP Film Plant Brochure (9)[1].pdf";
 
 const ModPolietilenoMDO = (props) => {
   return (
@@ -35,7 +36,7 @@ const ModPolietilenoMDO = (props) => {
               mayor resistencia y durabilidad.
             </p>
             <p className="fw-bold fst-italic mt-4">
-              Contáctanos para más informacion!
+              Contáctanos para mayor información!
             </p>
           </div>
           <div className="row ">
@@ -78,6 +79,11 @@ const ModPolietilenoMDO = (props) => {
             <div>
               <a href={PdfGDM} target="_blank">
                 Catalogo GDM .pdf
+              </a>
+            </div>
+            <div>
+              <a href={Satyendra} target="_blank">
+                Catalogo Satyendra.pdf
               </a>
             </div>
           </div>

@@ -36,7 +36,7 @@ const ModAnimales = (props) => {
               caducidad, entre otras.
             </p>
             <p className="fw-bold fst-italic mt-4">
-              Contáctanos para más informacion!
+              Contáctanos para mayor información!
             </p>
           </div>
           <div className="row ">

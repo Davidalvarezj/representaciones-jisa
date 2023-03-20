@@ -34,7 +34,7 @@ const ModTermoencogibles = (props) => {
               personalizados para agregar valor de marca a los productos.
             </p>
             <p className="fw-bold fst-italic mt-4">
-              Contáctanos para más informacion!
+              Contáctanos para mayor información!
             </p>
           </div>
           <div className="row ">

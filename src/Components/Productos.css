@@ -3,7 +3,7 @@
 .custom-card-img{
         object-fit: cover;
         height: 220px;
-        filter: brightness(55%);
+        filter: brightness(45%);
 }
 
 
@@ -54,11 +54,14 @@
 .producto-main{
         background-image: linear-gradient(.25turn, #f4f5f8, #e6e6e9);
         padding-top: 100px;
-        padding-bottom: 100px;
+        padding-bottom: 300px;
 }
 
 
+.custom-nav-adjust{
 
+    height: 80px;
+}
 
 
 @media (max-width: 640px) {

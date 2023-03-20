@@ -74,7 +74,7 @@ const ProductosMet = () => {
             <div className="col-12 col-md-10">
               <Row xs={2} md={3} className="g-3 rowgrid-custom">
                 <Col>
-                  <Card className="bg-dark text-white">
+                  <Card className="bg-dark text-white" border="secondary">
                     <Card.Img
                       src={require("../img/plasticos/stretch1.png").default}
                       alt="Card image"
@@ -86,7 +86,7 @@ const ProductosMet = () => {
                         Película stretch auto-adherente para embalaje.
                       </Card.Text>
                       <Button
-                        variant="outline-light prod-button"
+                        variant="btn btn-outline-warning prod-button"
                         onClick={() => setModalShowStrech(true)}
                       >
                         Mas Información
@@ -94,9 +94,8 @@ const ProductosMet = () => {
                     </Card.ImgOverlay>
                   </Card>
                 </Col>
-
                 <Col>
-                  <Card className="bg-dark text-white">
+                  <Card className="bg-dark text-white" border="secondary">
                     <Card.Img
                       src={require("../img/plasticos/cpp1.jpg").default}
                       alt="Card image"
@@ -109,7 +108,7 @@ const ProductosMet = () => {
                         propiedades mecánicas.
                       </Card.Text>
                       <Button
-                        variant="outline-light prod-button"
+                        variant="btn btn-outline-warning prod-button"
                         onClick={() => setModalShowCPP(true)}
                       >
                         Mas Información
@@ -119,7 +118,7 @@ const ProductosMet = () => {
                 </Col>
 
                 <Col>
-                  <Card className="bg-dark text-white">
+                  <Card className="bg-dark text-white" border="secondary">
                     <Card.Img
                       src={require("../img/plasticos/polietileno1.jpg").default}
                       alt="Card image"
@@ -134,7 +133,7 @@ const ProductosMet = () => {
                         empaques.
                       </Card.Text>
                       <Button
-                        variant="outline-light prod-button"
+                        variant="btn btn-outline-warning prod-button"
                         onClick={() => setModalShowPolietileno(true)}
                       >
                         Mas Información
@@ -142,9 +141,8 @@ const ProductosMet = () => {
                     </Card.ImgOverlay>
                   </Card>
                 </Col>
-
                 <Col>
-                  <Card className="bg-dark text-white">
+                  <Card className="bg-dark text-white" border="secondary">
                     <Card.Img
                       src={
                         require("../img/plasticos/polietilenoMDO3.jpg").default
@@ -159,7 +157,7 @@ const ProductosMet = () => {
                         estructuras multicapa
                       </Card.Text>
                       <Button
-                        variant="outline-light prod-button"
+                        variant="btn btn-outline-warning prod-button"
                         onClick={() => setModalShowPolietilenoMDO(true)}
                       >
                         Mas Información
@@ -167,9 +165,8 @@ const ProductosMet = () => {
                     </Card.ImgOverlay>
                   </Card>
                 </Col>
-
                 <Col>
-                  <Card className="bg-dark text-white">
+                  <Card className="bg-dark text-white" border="secondary">
                     <Card.Img
                       src={
                         require("../img/plasticos/termoencogible4.jpg").default
@@ -184,7 +181,7 @@ const ProductosMet = () => {
                         fuente de calor.
                       </Card.Text>
                       <Button
-                        variant="outline-light prod-button"
+                        variant="btn btn-outline-warning prod-button"
                         onClick={() => setModalShowTermoenco(true)}
                       >
                         Mas Información
@@ -192,9 +189,8 @@ const ProductosMet = () => {
                     </Card.ImgOverlay>
                   </Card>
                 </Col>
-
                 <Col>
-                  <Card className="bg-dark text-white">
+                  <Card className="bg-dark text-white" border="secondary">
                     <Card.Img
                       src={require("../img/plasticos/altabarrera4.jpg").default}
                       alt="Card image"
@@ -207,7 +203,7 @@ const ProductosMet = () => {
                         lácteos.
                       </Card.Text>
                       <Button
-                        variant="outline-light prod-button"
+                        variant="btn btn-outline-warning prod-button"
                         onClick={() => setModalShowAltaBarrera(true)}
                       >
                         Mas Información
@@ -215,9 +211,8 @@ const ProductosMet = () => {
                     </Card.ImgOverlay>
                   </Card>
                 </Col>
-
                 <Col>
-                  <Card className="bg-dark text-white">
+                  <Card className="bg-dark text-white" border="secondary">
                     <Card.Img
                       src={require("../img/plasticos/leche4.jpg").default}
                       alt="Card image"
@@ -230,7 +225,7 @@ const ProductosMet = () => {
                         duración.
                       </Card.Text>
                       <Button
-                        variant="outline-light prod-button"
+                        variant="btn btn-outline-warning prod-button"
                         onClick={() => setModalShowLeche(true)}
                       >
                         Mas Información
@@ -238,9 +233,8 @@ const ProductosMet = () => {
                     </Card.ImgOverlay>
                   </Card>
                 </Col>
-
                 <Col>
-                  <Card className="bg-dark text-white">
+                  <Card className="bg-dark text-white" border="secondary">
                     <Card.Img
                       src={
                         require("../img/plasticos/sacovalvulado1.jpg").default
@@ -254,7 +248,7 @@ const ProductosMet = () => {
                         Sacos valvulados en pelicula de polietileno
                       </Card.Text>
                       <Button
-                        variant="outline-light prod-button"
+                        variant="btn btn-outline-warning prod-button"
                         onClick={() => setModalShowSacoPelicula(true)}
                       >
                         Mas Información
@@ -262,9 +256,8 @@ const ProductosMet = () => {
                     </Card.ImgOverlay>
                   </Card>
                 </Col>
-
                 <Col>
-                  <Card className="bg-dark text-white">
+                  <Card className="bg-dark text-white" border="secondary">
                     <Card.Img
                       src={require("../img/plasticos/animales1.jpg").default}
                       alt="Card image"
@@ -278,7 +271,7 @@ const ProductosMet = () => {
                         Sacos para empaque concentrado de animales.
                       </Card.Text>
                       <Button
-                        variant="outline-light prod-button"
+                        variant="btn btn-outline-warning prod-button"
                         onClick={() => setModalShowAnimales(true)}
                       >
                         Mas Información
