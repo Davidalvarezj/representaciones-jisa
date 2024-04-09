@@ -1,15 +1,16 @@
 .contacto-main {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)),url("../img/bg/19.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url("../img/bg/19.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     /* box-shadow: -0px -100px 100px  10px rgba(0, 0, 0, 0.5) inset; */
     height: 700px;
 
-   
+
 
 }
-.contact-row{
+
+.contact-row {
     height: 600px;
     justify-content: center;
     align-items: center;

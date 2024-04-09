@@ -19,30 +19,25 @@ const Nosotros = () => {
 
           <Col xs="12" md="5">
             <p>
-              Somos una compañía que representa a fabricantes de Plásticos del
-              exterior para el mercado colombiano.
+              Somos una compañía que representa a proveedores de plasticos y
+              estructuras metálicas para el mercado colombiano.
             </p>
             <p>
-              Ofrecemos una amplia variedad de soluciones de empaque que se
-              adaptan a las necesidades de nuestros clientes.
+              Ofrecemos peliculas y sacos plasticos de Polipropileno,
+              Polietileno, Strech, termoencogibles y de alta barrera para
+              empaques industriales.
             </p>
-
             <p>
-              <p className="fw-bold text-secondary">Nuestros productos:</p>
-              <ul className="text-secondary">
-                <li>Película de Polietileno</li>
-                <li>Película de Strech</li>
-                <li>Película de termoencogibles</li>
-                <li>Película de alta barrera</li>
-                <li>Sacos valvulados </li>
-              </ul>
+              Suministramos productos metálicos para grandes proyectos, nos han
+              hecho promotores del desarrollo industrial, de la infraestructura
+              y la construcción del país y la región.
             </p>
-
-            <a className="btn btn-warning  mt-3 custobutton" href="#productos">
-              Productos
-            </a>
+            <p>
+              Las oficinas de Jisa están localizadas en la ciudad de Medellín
+              pero atendemos clientes en todo el país.
+            </p>
             <a
-              className="btn btn-outline-warning  mt-3 custobutton ms-3"
+              className="btn  btn-lg btn-warning text-white mt-3 custobutton"
               href="#contacto"
             >
               Contáctanos

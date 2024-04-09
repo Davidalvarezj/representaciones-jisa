@@ -1,8 +1,8 @@
 
 
 .custom-card-img{
-        object-fit: cover;
-        height: 220px;
+        object-fit:cover !important;
+        height: 240px;
         filter: brightness(45%);
 }
 
@@ -15,17 +15,17 @@
 
 .card-title{
 
-    margin-top: 10px !important;
+margin-top: 20px !important;
 
 }
 
 .card{
-    height: 220px !important;
-    /* width: 340px !important; */
-    
-    box-shadow: 10px 10px 10px rgba(89, 90, 90, 0.4);
-    transition: all 1s ease;
-    margin: 0px;
+        height: 240px !important;
+        /* width: 340px !important; */
+      
+        box-shadow: 10px 10px 10px rgba(89, 90, 90, 0.4);
+        transition: all 1s ease;
+        margin: 0px;
 }
 
 .card:hover{
@@ -53,15 +53,10 @@
 
 .producto-main{
         background-image: linear-gradient(.25turn, #f4f5f8, #e6e6e9);
-        padding-top: 100px;
-        padding-bottom: 300px;
 }
 
 
-.custom-nav-adjust{
 
-    height: 80px;
-}
 
 
 @media (max-width: 640px) {
@@ -83,15 +78,10 @@
 
     }
     .alcmodal{
-        width: 105px !important;
+        width: 120px !important;
         height: 120px !important;
     }
     .card-text{
         display: none;
-    }
-    .producto-main {
-
-        padding-top: 0px;
-        padding-bottom: 0px;
     }
 }
